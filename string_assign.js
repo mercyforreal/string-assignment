@@ -26,3 +26,5 @@ console.log(statement.substr (21, 7));
 console.log(statement.slice (-20, -15));
 
 console.log(statement.substring (33, 37));
+
+console.log(statement.substr (33,4));
