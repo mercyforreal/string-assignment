@@ -20,4 +20,8 @@ console.log(statement.slice(21,28));
 
 console.log(statement.substring (21,28));
 
-console.log(statement.substr (21, 7))
+console.log(statement.substr (21, 7));
+
+
+console.log(statement.slice (-20, -15));
+
