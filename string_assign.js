@@ -18,4 +18,6 @@ console.log(statement.substr(12,3));
 
 console.log(statement.slice(21,28));
 
-console.log(statement.substring ())
+console.log(statement.substring (21,28));
+
+console.log(statement.substr (21, 7))
