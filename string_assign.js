@@ -35,3 +35,8 @@ console.log(statement.slice (-10, -3));
 console.log(statement.substring(43,50));
 
 console.log(statement.substr(43,7));
+
+
+console.log(statement.slice(50,54));
+
+console.log(statement.substring(50,53));
