@@ -31,3 +31,7 @@ console.log(statement.substr (33,4));
 
 
 console.log(statement.slice (-10, -3));
+
+console.log(statement.substring(43,50));
+
+console.log(statement.substr(43,7));
